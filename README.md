@@ -2,7 +2,7 @@
 ## 🎯 Objective
 The analysis aims to enhance dataset quality through thorough preprocessing, including outlier management, handling missing values, and resolving duplicates. It focuses on creating customer-centric features like Recency, Frequency, and Monetary (RFM) metrics, along with other behavioral insights such as average purchase intervals and peak shopping times, to uncover meaningful transaction patterns. This approach facilitates comprehensive customer segmentation and activity-level categorization for actionable insights in CRM analytics.
 ## 📝 Project Report
-- You can access the complete project python file here - [Python]([https://github.com/](https://github.com/nikhilsree5/EcommCRM/blob/main/Ecom%20CRM.pdf))
+- You can access the complete project python file here - [Python](https://github.com/nikhilsree5/EcommCRM/blob/main/Ecomm_CRM.ipynb)
 - You can access the complete project in pdf format here - [Report](https://github.com/nikhilsree5/EcommCRM/blob/main/Ecom%20CRM.pdf)
 ## 📚 About Data
 The dataset encompasses transactions from 01/12/2010 to 09/12/2011 for a non-store online retail business based and registered in the UK. Specializing in distinctive all-occasion gifts, the company's clientele includes a significant number of wholesale customers. 
